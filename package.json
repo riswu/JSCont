@@ -1,0 +1,15 @@
+{
+  "private": "true",
+  "name": "jscont",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-register -R spec"
+  },
+  "description": "",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "mocha": "^4.0.0"
+  }
+}
