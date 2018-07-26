@@ -1,8 +1,8 @@
 {
   "private": "true",
-  "name": "jscont",
+  "name": "js-cont-monad",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "mocha --compilers js:babel-register -R spec"
   },
