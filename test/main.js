@@ -1,4 +1,4 @@
-import Cont from '../index';
+import Cont from '../main';
 import assert from 'assert';
 
 const add1 = a => {
